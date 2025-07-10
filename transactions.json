@@ -1,0 +1,68 @@
+[
+    {
+        "user_id": 1,
+        "amount": 2000,
+        "type": "deposit",
+        "created_at": "2025-07-08 15:43:07"
+    },
+    {
+        "user_id": 1,
+        "amount": 300,
+        "type": "bonus",
+        "created_at": "2025-07-08 15:43:07"
+    },
+    {
+        "user_id": 1,
+        "amount": 2000,
+        "type": "deposit",
+        "created_at": "2025-07-08 15:43:09"
+    },
+    {
+        "user_id": 1,
+        "amount": 2000,
+        "type": "deposit",
+        "created_at": "2025-07-08 15:43:24"
+    },
+    {
+        "user_id": 2,
+        "amount": 10000,
+        "type": "deposit",
+        "created_at": "2025-07-08 15:48:26"
+    },
+    {
+        "user_id": 2,
+        "amount": 1500,
+        "type": "bonus",
+        "created_at": "2025-07-08 15:48:26"
+    },
+    {
+        "user_id": 2,
+        "amount": 1000,
+        "type": "investment",
+        "created_at": "2025-07-08 16:18:09"
+    },
+    {
+        "user_id": 2,
+        "amount": 200000,
+        "type": "deposit",
+        "created_at": "2025-07-08 16:46:14"
+    },
+    {
+        "user_id": 2,
+        "amount": 30000,
+        "type": "bonus",
+        "created_at": "2025-07-08 16:46:14"
+    },
+    {
+        "user_id": 2,
+        "amount": 10000,
+        "type": "deposit",
+        "created_at": "2025-07-08 16:51:34"
+    },
+    {
+        "user_id": 2,
+        "amount": 1500,
+        "type": "bonus",
+        "created_at": "2025-07-08 16:51:34"
+    }
+]

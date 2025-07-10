@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Lark Davis",
+        "strategy": "Swing trades on major pairs",
+        "roi_percent": 35.7,
+        "followers": 705,
+        "avatar_url": "avatars\/IMG-20250612-WA0011.jpg",
+        "twitter_url": "https:\/\/x.com\/cryptogodjohn?s=21"
+    },
+    {
+        "id": 2,
+        "name": "Johnny",
+        "strategy": "Scalping on EUR\/USD",
+        "roi_percent": 35.7,
+        "followers": 705,
+        "avatar_url": "avatars\/IMG-20250629-WA0001.jpg",
+        "twitter_url": "https:\/\/x.com\/cryptogodjohn?s=2"
+    },
+    {
+        "id": 3,
+        "name": "Michael Saylor",
+        "strategy": "Long-term BTC holding",
+        "roi_percent": 52.3,
+        "followers": 4806,
+        "avatar_url": "avatars\/IMG-20250629-WA0000.jpg",
+        "twitter_url": "https:\/\/x.com\/thecryptolark?s=2"
+    }
+]

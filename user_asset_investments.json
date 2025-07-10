@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "asset_id": 2,
+        "amount": 600,
+        "return_percent": 15,
+        "invested_at": "2025-07-08 13:11:05",
+        "status": "active",
+        "gain_loss": -6,
+        "source": "investment"
+    },
+    {
+        "id": 2,
+        "user_id": 1,
+        "asset_id": 6,
+        "amount": 50000,
+        "return_percent": 400,
+        "invested_at": "2025-07-08 14:18:26",
+        "status": "active",
+        "gain_loss": -6,
+        "source": "investment"
+    },
+    {
+        "id": 3,
+        "user_id": 1,
+        "asset_id": 3,
+        "amount": 50000,
+        "return_percent": 30,
+        "invested_at": "2025-07-08 14:18:59",
+        "status": "active",
+        "gain_loss": -6,
+        "source": "investment"
+    },
+    {
+        "id": 4,
+        "user_id": 1,
+        "asset_id": 6,
+        "amount": 100000,
+        "return_percent": 400,
+        "invested_at": "2025-07-08 14:30:08",
+        "status": "active",
+        "gain_loss": 366538,
+        "source": "investment"
+    },
+    {
+        "id": 5,
+        "user_id": 2,
+        "asset_id": 3,
+        "amount": 10000,
+        "return_percent": 30,
+        "invested_at": "2025-07-08 16:31:57",
+        "status": "active",
+        "gain_loss": 6,
+        "source": "investment"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "user_id": 2,
+        "amount": 1000,
+        "method": "BTC",
+        "details": "bc1qs03arq02tu44p239dgt85gvuqegwn8wv0tzfj0",
+        "status": "rejected",
+        "requested_at": "2025-07-08 17:36:46"
+    }
+]

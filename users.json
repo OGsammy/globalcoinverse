@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "username": "Kingsley Ufuoma",
+        "email": "donkingsley96@gmail.com",
+        "password_hash": "$2y$10$LN3WaUVVoJHO6a1x6rkkWusG4J9vABD0yF7LzDALwZTJPJrNbpzf.",
+        "balance": 1006300,
+        "role": "user"
+    },
+    {
+        "id": 2,
+        "username": "mario",
+        "email": "c.samjnr2@gmail.com",
+        "password_hash": "$2y$10$jnR3rg9DxdxR1QXp6n.nvOEAQRcNic2\/1fqmYXfaB6Uvfs\/c6uNfa",
+        "balance": 242000,
+        "role": "user",
+        "withdrawable_balance": 15000
+    },
+    {
+        "id": 3,
+        "username": "jeffery",
+        "email": "jeff3@gmail.com",
+        "password_hash": "$2y$10$MdFyUPukHx.QKgMdgo425eTpjec2Bm3Tfyn3b.iL1XnJ7cP5khFq2",
+        "balance": 0,
+        "role": "admin"
+    }
+]

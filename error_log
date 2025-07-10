@@ -1,0 +1,179 @@
+[04-Jul-2025 10:01:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kyrie'@'localhost' (using password: YES) in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'kyrie', 'shanksbaby1234', 'cryptobroker_ky...')
+#1 /home/globalco/public_html/registration.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:01:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kyrie'@'localhost' (using password: YES) in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'kyrie', 'shanksbaby1234', 'cryptobroker_ky...')
+#1 /home/globalco/public_html/registration.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:01:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kyrie'@'localhost' (using password: YES) in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'kyrie', 'shanksbaby1234', 'cryptobroker_ky...')
+#1 /home/globalco/public_html/registration.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:01:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kyrie'@'localhost' (using password: YES) in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'kyrie', 'shanksbaby1234', 'cryptobroker_ky...')
+#1 /home/globalco/public_html/registration.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:08:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/registration.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:08:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/registration.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:08:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/registration.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:10:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/registration.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:10:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/login.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:10:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/login.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:10:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/registration.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:10:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/login.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:10:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/login.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:10:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/registration.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:11:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/registration.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:11:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalco_kyrie'@'localhost' to database 'globalco_cryptobroker' in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/login.php(3): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 10:32:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/login.php on line 40
+[04-Jul-2025 10:33:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/login.php on line 40
+[04-Jul-2025 10:54:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/login.php on line 40
+[04-Jul-2025 10:54:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/login.php on line 40
+[04-Jul-2025 11:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/login.php on line 40
+[04-Jul-2025 11:17:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/registration.php on line 46
+[04-Jul-2025 11:35:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/dashboard.php on line 6
+[04-Jul-2025 11:43:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/dashboard.php on line 6
+[04-Jul-2025 11:44:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/dashboard.php on line 6
+[04-Jul-2025 11:45:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/dashboard.php on line 6
+[04-Jul-2025 11:46:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 11:46:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 11:53:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 11:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 11:54:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/dashboard.php on line 6
+[04-Jul-2025 11:54:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/dashboard.php on line 6
+[04-Jul-2025 12:18:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/admin_confirm.php on line 7
+[04-Jul-2025 12:18:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/admin_confirm.php on line 7
+[04-Jul-2025 12:18:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/admin_confirm.php on line 7
+[04-Jul-2025 12:18:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/admin_confirm.php on line 7
+[04-Jul-2025 12:21:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/admin_confirm.php on line 102
+[04-Jul-2025 12:26:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 12:27:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 12:27:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/invest.php on line 21
+[04-Jul-2025 12:31:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/dashboard.php on line 6
+[04-Jul-2025 12:31:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/dashboard.php on line 6
+[04-Jul-2025 12:37:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/upload_proof.php on line 31
+[04-Jul-2025 12:50:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 12:51:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 12:51:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 12:57:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 12:57:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:02:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:02:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:02:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:03:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:03:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:03:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:03:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:03:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:03:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:04:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:06:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:06:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:42:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:42:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:42:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:42:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:43:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:43:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:43:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:43:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:43:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:44:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:45:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:46:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 13:47:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/get_balance.php on line 5
+[04-Jul-2025 16:27:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/copy_trader.php on line 18
+[04-Jul-2025 16:30:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/copy_trader.php on line 18
+[04-Jul-2025 18:03:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/copy_trader.php on line 18
+[04-Jul-2025 18:12:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/globalco/public_html/db.php:9
+Stack trace:
+#0 /home/globalco/public_html/db.php(9): mysqli->__construct('localhost', 'globalco_kyrie', 'shanksbaby1234', 'globalco_crypto...')
+#1 /home/globalco/public_html/dashboard.php(6): require_once('/home/globalco/...')
+#2 {main}
+  thrown in /home/globalco/public_html/db.php on line 9
+[04-Jul-2025 19:15:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/copy_trader.php on line 18
+[04-Jul-2025 19:15:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/copy_trader.php on line 18
+[04-Jul-2025 19:15:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/copy_trader.php on line 18
+[04-Jul-2025 19:15:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/copy_trader.php on line 18
+[04-Jul-2025 19:15:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/copy_trader.php on line 18
+[04-Jul-2025 19:20:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/copy_trader.php on line 18
+[04-Jul-2025 19:20:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/copy_trader.php on line 18
+[04-Jul-2025 21:05:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/copy_trader.php on line 40
+[04-Jul-2025 21:06:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/globalco/public_html/db.php:19) in /home/globalco/public_html/stop_copying.php on line 33
+[05-Jul-2025 14:29:16 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/globalco/public_html/admin_confirm.php on line 102
+[05-Jul-2025 14:39:42 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/globalco/public_html/admin_confirm.php on line 102
+[05-Jul-2025 14:40:07 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/globalco/public_html/admin_confirm.php on line 102
+[05-Jul-2025 14:40:08 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/globalco/public_html/admin_confirm.php on line 102
+[05-Jul-2025 14:42:06 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/globalco/public_html/admin_confirm.php on line 102
+[05-Jul-2025 14:43:26 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/globalco/public_html/admin_confirm.php on line 102
+[05-Jul-2025 14:43:27 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/globalco/public_html/admin_confirm.php on line 102
+[06-Jul-2025 01:06:46 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/globalco/public_html/admin_confirm.php on line 102
